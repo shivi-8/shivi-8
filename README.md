@@ -85,9 +85,9 @@ Focus:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivi-8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivi-8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
@@ -97,7 +97,7 @@ Focus:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivi-8&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -107,7 +107,7 @@ Focus:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=shivi-8&theme=algolia&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -117,7 +117,7 @@ Focus:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=8a2be2&line=00ffff&point=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivi-8&bg_color=0d1117&color=8a2be2&line=00ffff&point=ffffff&hide_border=true" />
 
 </div>
 
@@ -127,11 +127,11 @@ Focus:
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shivi-s-043824214/">
 <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/shivi-8">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -145,16 +145,12 @@ Focus:
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
-### 💜 “Code. Create. Innovate.” 💜
-
+💜 Code Create Innovate
 </div>
-
 ---
 
 # 🌠 Tech Stack
