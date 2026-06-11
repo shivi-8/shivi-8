@@ -133,7 +133,7 @@ Focus:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazQ4OTljcHl3dzJuc29kZ3F3eXA0djZ3amV6cWIxazQ5bW9lMjhkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="400"/>
 
 </div>
 
