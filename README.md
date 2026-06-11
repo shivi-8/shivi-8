@@ -14,7 +14,7 @@
 
 ## 💗 About Me
 
-<img align="right" alt="coding girl" width="300" src="https://media.giphy.com/media/F9hQLAVhWnL56/giphy.gif">
+<img align="right" alt="coding girl" width="300" src="https://media.tenor.com/AOdIxLQUvVcAAAAC/pink-aesthetic.gif">
 
 ```yaml
 Name: Shivi Sharma
