@@ -18,15 +18,16 @@
 
 ```yaml
 Name: Shivi Sharma
-Role: AI & Full Stack Developer
+Role: AI & ML student 
 Education: B.Tech CSE (AI & Data Science)
 University: BML Munjal University
 Focus:
   - Artificial Intelligence
   - Machine Learning
+  - Gen ai
   - Flutter Development
   - UI/UX Design
-  - Open Source
+  - open source 
 ```
 
 <div align="center">
