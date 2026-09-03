@@ -42,9 +42,9 @@ Focus:
 
 ## 🌸 Tech Stack
 
-<div align="center">
+ <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nextjs,flutter,firebase,tensorflow,docker,git,mysql,sqlite,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,postgresql,pytorch,tensorflow,opencv,docker,git,github,fastapi,firebase,javascript,react,nextjs&theme=dark" />
 
 </div>
 
